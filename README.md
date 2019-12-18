@@ -2,5 +2,13 @@
 
 - [Installation](#installation)
 - [Functions](#functions)
-	- [Technologies](#technologies)
-	
+	- [globalReplaceInString](#globalReplaceInString)
+	- [createRandomTextGenerator](#createRandomTextGenerator)
+	- [createColor](#createColor)
+	- [getRainbowColor](#getRainbowColor)
+	- [createPoint](#createPoint)
+	- [getRandomColor](#getRandomColor)
+	- [drawLine](#drawLine)
+	- [random](#random)
+	- [chooseRandomElementWithWeights](#chooseRandomElementWithWeights)
+	- [hash](#hash)
