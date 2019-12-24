@@ -1,0 +1,19 @@
+{
+	"name": "ghlib-js",
+	"version": "1.0.0",
+	"description": "",
+	"main": "ghlib-node.js",
+	"scripts": {
+		"browserify": "browserify ghlib_node.js --s module > ghlib_browser.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Rafal-Majewski/ghlib-js.git"
+	},
+	"author": "Rafał Majewski",
+	"license": "SEE LICENSE IN license.txt",
+	"bugs": {
+		"url": "https://github.com/Rafal-Majewski/ghlib-js/issues"
+	},
+	"homepage": "https://github.com/Rafal-Majewski/ghlib-js#readme"
+}
