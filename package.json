@@ -1,8 +1,8 @@
 {
-	"name": "ghlib-js",
-	"version": "1.0.1",
+	"name": "ghlib",
+	"version": "1.0.0",
 	"description": "",
-	"main": "ghlib-node.js",
+	"main": "ghlib_node.js",
 	"scripts": {
 		"browserify": "browserify ghlib_node.js --s module > ghlib_browser.js"
 	},
